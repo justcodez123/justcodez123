@@ -27,4 +27,3 @@ I'm a software engineer passionate about building high-performance systems and s
 -  [aashishkaaley@gmail.com](mailto:aashishkaaley@gmail.com)
 -  [LeetCode Profile](https://leetcode.com/u/askkale674/)
 
-*Currently aiming for N3 Japanese proficiency*
