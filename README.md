@@ -9,7 +9,7 @@ I'm a software engineer passionate about building high-performance systems and s
 - **Real Estate Hub**: Building a high-performance property platform with React and SpringBoot.
 - **Agentic AI**: Exploring RAG and Vector Databases for intelligent automation.
 
-### 🚀 Technical Arsenal:
+###  Technical Arsenal:
 - **Languages:** Java, C++, JavaScript (ES6+), Python
 - **Systems & Backend:** Node.js, C++ Multi-threading, Epoll, PostgreSQL, MySQL, SpringBoot
 - **Frontend:** React, jQuery, Tailwind CSS, HTML5/CSS3
@@ -17,14 +17,13 @@ I'm a software engineer passionate about building high-performance systems and s
 - **Data:** Power BI, Advanced Excel, MS SQL
 
 ### 📊 Impact & Stats:
-- ⚡ Reduced system downtime by **40%** in Blockchain-based counterfeit detection.
-- 🚀 Optimized web performance to achieve **40% faster** loading times.
-- 🏆 **AWS Cloud Practitioner** & JS Unit Testing Certified.
+-  Reduced system downtime by **40%** in Blockchain-based counterfeit detection.
+-  Optimized web performance to achieve **40% faster** loading times.
+-  **AWS Cloud Practitioner** & JS Unit Testing Certified.
 
 ### 🌐 Let's Connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/aashish-kaaley-954060261/)
-- 📧 [aashishkaaley@gmail.com](mailto:aashishkaaley@gmail.com)
-- 📝 [LeetCode Profile](https://leetcode.com/u/askkale674/)
+-  [LinkedIn](https://www.linkedin.com/in/aashish-kaaley-954060261/)
+-  [aashishkaaley@gmail.com](mailto:aashishkaaley@gmail.com)
+-  [LeetCode Profile](https://leetcode.com/u/askkale674/)
 
----
 *Currently aiming for N3 Japanese proficiency*
