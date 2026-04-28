@@ -2,7 +2,7 @@
 
 **Computer Engineering @ PVGCOET '25 | SDE Intern @ Goshipr**
 
-I'm a software engineer and Data Analyst passionate about building high-performance systems and scalable web applications and Implementing and Explore the usecases of AI. I bridge the gap between low-level performance (C++) and modern user experiences (React/Node.js).
+I'm a software engineer and Data Analyst passionate about building high-performance system, scalable web applications and Draw out data interpretetion, insights as a Data Analyst. Exploring the usecases of AI. 
 
 ###  What I have done and  I'm working on:
 - **Flash KV**: Developed a high-throughput C++ key-value store utilizing epoll and lock-striping to bypass single-thread bottlenecks.
