@@ -8,7 +8,7 @@ I'm a  Data Analyst and Software Engineer, passionate about building high-perfor
 - **Data Analytics**: Explored the Dataset related Rapido's Ride-Customer Dataset, Digital Markting Dataset analysis, etc. Explored the Data and drawn out insights.
 - **Prototype Blockchain System**: Built [Authentichain](https://authentichain-tec.me), which detects counterfeit products.
 - **Agentic AI**: Exploring RAG, Vector Databases for intelligent automation.
-- **Flash KV**: Developed a high-throughput C++ key-value store utilizing epoll and lock-striping to bypass single-thread bottlenecks.
+- **Goshipr.in**: Developing a Logistic related site.
 
 ###  Technical Arsenal:
 - **Languages:** Java, C++, JavaScript (ES6+), Python
