@@ -2,7 +2,7 @@
 
 **Computer Engineering @ PVGCOET '25 | SDE Intern @ Goshipr**
 
-I'm a  Data Analyst and Software Engineer, passionate about building high-performance system, scalable web applications and Draw out data interpretetion, insights as a Data Analyst. Exploring the usecases of AI. 
+I'm a  Software Engineer and Data Analyst, passionate about building high-performance system, scalable web applications and Draw out data interpretetion, insights as a Data Analyst. Exploring the usecases of AI. 
 
 ###  What I have done and  I'm working on:
 - **Data Analytics**: Explored the Dataset related Rapido's Ride-Customer Dataset, Digital Markting Dataset analysis, etc. Explored the Data and drawn out insights.
