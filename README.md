@@ -15,7 +15,7 @@ I'm a  Software Engineer and Data Analyst, passionate about building high-perfor
 - **Systems & Backend:** Node.js, C++, Multi-threading(C++), Epoll, PostgreSQL, MySQL, MS SQL, SpringBoot
 - **Frontend:** React, jQuery, Tailwind CSS, HTML5/CSS3
 - **DevOps & Tools:** AWS, Git/GitHub, Hardhat (Blockchain), Linux 
-- **Data:** Power BI, Advanced Excel, MS SQL
+- **Data:** Power BI, Advanced Excel, ToughtSpot
 
 ###  Impact & Stats:
 -  Reduced system downtime by **40%** in Blockchain-based counterfeit detection.
