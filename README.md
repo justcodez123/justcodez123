@@ -5,7 +5,7 @@
 I'm a  Software Engineer and Data Analyst, passionate about building high-performance system, scalable web applications and Draw out data interpretetion, insights as a Data Analyst. Exploring the Proper usecases of AI and finest integration point with software. 
 
 ###  What I have done and  I'm working on:
-- **Prototype Blockchain System**: Built [Authentichain](https://authentichain-tec.me), which detects counterfeit products.
+- **Prototype Blockchain System**: Built [Authentichain], which detects counterfeit products.
 - **Agentic AI**: Exploring RAG, Vector Databases for intelligent automation.
 - **Goshipr.in**: Developing a Logistic related site.
 - **Data Analytics**: Explored the Dataset related Rapido's Ride-Customer Dataset, Digital Markting Dataset analysis, etc. Explored the Data and drawn out insights.
