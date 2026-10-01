@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashish Sachin Kale!
 
-**Computer Engineering @ PVGCOET '25 | SDE Intern @ Goshipr**
+**Computer Engineering @ PVGCOET '25 | SDE Intern @ Mechanica Systems**
 
 I'm a  Software Engineer and Data Analyst, passionate about building high-performance system, scalable web applications and Draw out data interpretetion, insights as a Data Analyst. Exploring the Proper usecases of AI and finest integration point with software. 
 
